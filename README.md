@@ -1,1 +1,1 @@
-# Astra-Remote-firmware-bin
+v1.0
