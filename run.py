@@ -2,7 +2,7 @@ import glob, os
 #os.chdir("/")
 
 # change project variable to match your sketch name
-project = 'esp32-firmware-update'
+project = 'Astra-Remote-firmware-bin'
 binFiles = glob.glob(project + "*.bin")
 	
 #read the arduino sketch
